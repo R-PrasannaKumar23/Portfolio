@@ -1,0 +1,66 @@
+@font-face {
+	font-family: Montserrat;
+	src: url('./root/font/Montserrat-VariableFont_wght.ttf') format('truetype');
+}
+@font-face {
+	font-family: Montserrat-semi-bold;
+	src: url('./root/font/Montserrat-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: Montserrat-bold;
+	src: url('./root/font/Montserrat-Bold.ttf') format('truetype');
+}
+
+body {
+  background-color: #1d1d1d;
+  font-family: Montserrat !important;
+  color: #FFF !important;
+}
+.leftPanel {
+  background-color: #1d1d1d;
+  color:#FFF;
+}
+.rightPanel {
+  background-color: #363636;
+}
+
+/*FONT*/
+.f-10 {
+  font-size: 10px;
+}
+.f-12 {
+  font-size: 12px;
+}
+.f-14 {
+  font-size: 14px;
+}
+.f-16 {
+  font-size: 16px;
+}
+.f-18 {
+  font-size: 18px;
+}
+.font-weight-bold {
+  font-weight: bold;
+}
+
+/*Typography*/
+.txtPrimary {
+  color: #0dcaf0;
+}
+
+/*BUTTON*/
+.btn {
+  letter-spacing: 1px !important;
+}
+.btn-outline-info:hover {
+  color: #FFF !important;
+  font-weight: bold !important;
+}
+
+/*MODAL*/
+.modal-title {
+  color: #000 !important;
+  font-weight: bold;
+  font-size: 14px;
+}
