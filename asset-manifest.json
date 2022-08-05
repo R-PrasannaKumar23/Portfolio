@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/R-PrasannaKumar23/Portfolio/my-portfolio/static/css/main.c331a03a.css",
+    "main.js": "/R-PrasannaKumar23/Portfolio/my-portfolio/static/js/main.292615a3.js",
+    "static/js/787.128fc6e9.chunk.js": "/R-PrasannaKumar23/Portfolio/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/materialdesignicons-webfont.eot": "/R-PrasannaKumar23/Portfolio/my-portfolio/static/media/materialdesignicons-webfont.6d443750d1e189bc714a.eot",
+    "static/media/materialdesignicons-webfont.ttf?v=3.9.97": "/R-PrasannaKumar23/Portfolio/my-portfolio/static/media/materialdesignicons-webfont.a55389a8f000c7537c77.ttf",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/R-PrasannaKumar23/Portfolio/my-portfolio/static/media/Montserrat-VariableFont_wght.3068cdb43142f5625baf.ttf",
+    "static/media/materialdesignicons-webfont.woff?v=3.9.97": "/R-PrasannaKumar23/Portfolio/my-portfolio/static/media/materialdesignicons-webfont.85b9ca77fd0bda79b65f.woff",
+    "static/media/materialdesignicons-webfont.woff2?v=3.9.97": "/R-PrasannaKumar23/Portfolio/my-portfolio/static/media/materialdesignicons-webfont.2ec256c84a2002197204.woff2",
+    "static/media/Montserrat-SemiBold.ttf": "/R-PrasannaKumar23/Portfolio/my-portfolio/static/media/Montserrat-SemiBold.04af9a9e62bb4c47bd55.ttf",
+    "static/media/Montserrat-Bold.ttf": "/R-PrasannaKumar23/Portfolio/my-portfolio/static/media/Montserrat-Bold.63fae500fdcf19ce83d4.ttf",
+    "index.html": "/R-PrasannaKumar23/Portfolio/my-portfolio/index.html",
+    "main.c331a03a.css.map": "/R-PrasannaKumar23/Portfolio/my-portfolio/static/css/main.c331a03a.css.map",
+    "main.292615a3.js.map": "/R-PrasannaKumar23/Portfolio/my-portfolio/static/js/main.292615a3.js.map",
+    "787.128fc6e9.chunk.js.map": "/R-PrasannaKumar23/Portfolio/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c331a03a.css",
+    "static/js/main.292615a3.js"
+  ]
+}
